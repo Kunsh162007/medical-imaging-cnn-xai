@@ -142,8 +142,8 @@ All XAI techniques are applied to all 4 architectures + ensemble with side-by-si
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/alzheimer-dl-showcase.git
-cd alzheimer-dl-showcase
+git clone https://github.com/Kunsh162007/medical-imaging-cnn-xai.git
+cd medical-imaging-cnn-xai
 
 # For TensorFlow
 pip install -r requirements_tensorflow.txt

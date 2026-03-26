@@ -55,6 +55,6 @@ Paths: `results/05_explainability_xai/lime/` or `results/05_explainability_xai/s
 
 I'd love to hear feedback from engineers and researchers working in MedTech or Computer Vision! 
 
-🔗 **Full Code & Architecture on GitHub:** [Link to your GitHub repo]
+🔗 **Full Code & Architecture on GitHub:** https://github.com/Kunsh162007/medical-imaging-cnn-xai
 
 #DeepLearning #MachineLearning #ComputerVision #MedicalImaging #TensorFlow #PyTorch #XAI #DataScience #AI #Alzheimers #NeuralNetworks
