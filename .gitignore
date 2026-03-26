@@ -5,9 +5,12 @@ env/
 
 # Data and Artifacts
 data/
-results/
 *.zip
 *.tar.gz
+*.pt
+*.h5
+*.keras
+*.pth
 
 # Python
 __pycache__/
