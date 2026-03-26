@@ -26,3 +26,4 @@ __pycache__/
 # Logs and Reports
 flake8_report.txt
 *.log
+LINKEDIN_SHOWCASE.md
