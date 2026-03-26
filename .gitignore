@@ -1,0 +1,25 @@
+# Environments
+venv*/
+env/
+.env
+
+# Data and Artifacts
+data/
+results/
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs and Reports
+flake8_report.txt
+*.log
